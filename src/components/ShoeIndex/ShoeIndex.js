@@ -48,10 +48,13 @@ const Wrapper = styled.div`
 
 const LeftColumn = styled.div``;
 
-const MainColumn = styled.div``;
+const MainColumn = styled.div`
+  padding: 32px;
+`;
 
 const Header = styled.header`
   display: flex;
+  align-items: center;
 `;
 
 const Title = styled.h2`

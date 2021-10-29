@@ -46,7 +46,9 @@ const Wrapper = styled.div`
   justify-content: flex-end;
 `;
 
-const LeftColumn = styled.div``;
+const LeftColumn = styled.div`
+  padding: 44px 0px;
+`;
 
 const MainColumn = styled.div`
   padding: 32px;

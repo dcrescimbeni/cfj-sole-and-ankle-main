@@ -55,6 +55,7 @@ const MainColumn = styled.div`
 const Header = styled.header`
   display: flex;
   align-items: center;
+  padding: 0px 32px;
 `;
 
 const Title = styled.h2`
